@@ -72,7 +72,7 @@ EOF
 
 # Step 7: Download the icon
 echo "Downloading icon..."
-wget -O ~/Applications/cursor/cursor-icon.png https://us1.discourse-cdn.com/cursor1/original/3X/b/5/b589d2dd6e979c0b0bb40fcd7db8fde744974896.png
+wget -O ~/Applications/cursor/cursor-icon.png https://avatars.githubusercontent.com/u/126759922
 
 echo ""
 echo "Setup complete!"
@@ -101,8 +101,8 @@ The script will handle everything: creating directories, setting up the update s
 ### 4. Add the Icon
 
 The only manual step is to download an icon for Cursor.
-- Download your preferred icon. A good one can be found at [LobeHub Icons](https://lobehub.com/icons/cursor).
-- Save it as `cursor-icon.png` in the `~/Applications/cursor/` folder.
+- Download your preferred icon. A good one can be found at [Cursor's Github Avatar](https://avatars.githubusercontent.com/u/126759922).
+- - Save it as `cursor-icon.png` in the `~/Applications/cursor/` folder.
 
 ## Troubleshooting
 
